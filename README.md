@@ -55,7 +55,7 @@ Bienvenue sur le dépôt GitHub dédié à mon mémoire sur "L'impact de l'autoc
   - [GLM](#glm-1)
   - [GBM](#gbm)
 
-\#L’AUTOCALIBRATION DANS LA TARIFICATION EN ASSURANCE
+# L’AUTOCALIBRATION DANS LA TARIFICATION EN ASSURANCE
 
 # Fonctions
 
