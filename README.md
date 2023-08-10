@@ -63,7 +63,7 @@ Bienvenue sur le dépôt GitHub dédié au travail en lien avec mon mémoire, da
 - [Déviance poisson](#déviance-poisson-1)
 
 <center>
-![](..\ULB.png)
+![Université Libre de Bruxelles](ULB.png)
 </center>
 
 # Fonctions
