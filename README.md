@@ -1,3 +1,4 @@
+# Université Libre de Bruxelles (ULB)
 # Master en science actuarielles
 
 ## John GABARY, Août 2023
@@ -61,10 +62,6 @@ Bienvenue sur le dépôt GitHub dédié au travail en lien avec mon mémoire, da
 - [Graphique quantiles simples](#graphique-quantiles-simples-1)
 - [Double lift](#double-lift-1)
 - [Déviance poisson](#déviance-poisson-1)
-
-<center>
-![Université Libre de Bruxelles](ULB.png)
-</center>
 
 # Fonctions
 
