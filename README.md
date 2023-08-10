@@ -7,9 +7,6 @@ Bienvenue sur le dépôt GitHub dédié au travail en lien avec mon mémoire, da
 #### NOTE : Une grande partie du code a été construite en utilisant le référentiel GitHub du Prof. Arthur Charpentier disponible à l'adresse : https://github.com/freakonometrics/autocalibration/.
 
 # OPTIMISATION DE LA TARIFICATION EN ASSURANCE GRÂCE À L’AUTOCALIBRATION : ÉTUDE COMPARATIVE DES MODÈLES GLM, GAM ET GBM
-================
-John GABARY
-Juillet 2023
 
 - [Fonctions](#fonctions)
   - [Multiplot](#multiplot)
