@@ -3,7 +3,7 @@
 
 ## John GABARY, Août 2023
 
-Bienvenue sur le dépôt GitHub dédié au travail en lien avec mon mémoire, dans le cadre de mon cursus académique en sciences actuarielle, sous la supervision du Prof. Julien Trufin.
+Bienvenue sur le dépôt GitHub dédié au travail en lien avec mon mémoire, dans le cadre de mon cursus académique en sciences actuarielle, sous la supervision du Prof. Julien TRUFIN.
 
 #### NOTE : Une grande partie du code a été construite en utilisant le référentiel GitHub du Prof. Arthur Charpentier disponible à l'adresse : https://github.com/freakonometrics/autocalibration/.
 
